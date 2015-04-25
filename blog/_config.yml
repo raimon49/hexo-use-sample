@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Hexo Use Sample Blog
 subtitle:
 description:
-author: John Doe
-language:
+author: raimon
+language: en
 timezone:
 
 # URL
@@ -62,7 +62,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: hueman
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
