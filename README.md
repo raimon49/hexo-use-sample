@@ -1,6 +1,8 @@
 hexo-use-sample
 ===============
 
+http://raimon49.github.io/hexo-use-sample/
+
 Setup
 -----
 
