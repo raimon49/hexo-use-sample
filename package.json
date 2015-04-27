@@ -1,0 +1,15 @@
+{
+  "name": "hexo-use-sample",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+      "lint": "node test/markdown.js",
+      "precommit": "npm run lint",
+      "test": "npm run lint"
+  },
+  "devDependencies": {
+    "glob": "^5.0.5",
+    "husky": "^0.7.0",
+    "markdownlint": "0.0.4"
+  }
+}
