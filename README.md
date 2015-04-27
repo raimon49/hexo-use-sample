@@ -12,7 +12,7 @@ Setup
 
 ```sh
 $ git clone git@github.com:raimon49/hexo-use-sample.git
-$ cd hexo-use-sample
+$ cd hexo-use-sample/blog
 $ npm install
 ```
 
