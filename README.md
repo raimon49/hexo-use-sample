@@ -5,7 +5,8 @@ hexo-use-sample
 
 http://raimon49.github.io/hexo-use-sample/
 
-[How to create](http://raimon49.github.io/2015/04/25/create-blog-with-hexo.html)
+* [How to create](http://raimon49.github.io/2015/04/25/create-blog-with-hexo.html)
+* [How to testing](http://raimon49.github.io/2015/05/01/lint-markdown-at-commit.html)
 
 Setup
 -----
