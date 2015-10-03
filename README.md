@@ -12,7 +12,7 @@ Dependencies
 ------------
 
 * [Hexo](https://github.com/hexojs/hexo) 3.x
-* See [blog/packages.json](blog/packages.json)
+* See [blog/package.json](blog/package.json)
 
 Setup
 -----
