@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "glob": "^5.0.5",
-    "husky": "^0.7.0",
-    "markdownlint": "0.0.4"
+    "husky": "^0.10.0",
+    "markdownlint": "0.0.8"
   }
 }

@@ -5,7 +5,8 @@ var markdownlint = require("markdownlint"),
         "config": {
             "default": true,
             "MD007": {"indent": 4},
-            "MD013": false
+            "MD013": false,
+            "MD041": false
         }
     };
 
