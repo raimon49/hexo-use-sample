@@ -8,7 +8,7 @@
       "test": "npm run lint"
   },
   "devDependencies": {
-    "glob": "^5.0.5",
+    "glob": "^6.0.0",
     "husky": "^0.10.0",
     "markdownlint": "0.0.8"
   }
